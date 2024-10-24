@@ -67,12 +67,12 @@ public class User implements Serializable{
 		this.email = email;
 	}
 
-	public String getFone() {
+	public String getPhone() {
 		return phone;
 	}
 
-	public void setFone(String fone) {
-		this.phone = fone;
+	public void setPhone(String phone) {
+		this.phone = phone;
 	}
 
 	public String getPassword() {
